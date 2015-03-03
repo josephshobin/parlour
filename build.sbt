@@ -16,6 +16,8 @@ uniform.project("parlour", "au.com.cba.omnia.parlour")
 
 uniformDependencySettings
 
+strictDependencySettings
+
 libraryDependencies ++=
   depend.scaldingproject() ++
     depend.scalaz() ++ Seq(
